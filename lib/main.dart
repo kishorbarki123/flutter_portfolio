@@ -94,7 +94,7 @@ class _PortfolioHomePageState extends State<PortfolioHomePage> {
                     ),
                     const SizedBox(height: 12),
                     Text(
-                      'Akarsh',
+                      'Kishor',
                       style: Theme.of(context).textTheme.headlineMedium
                           ?.copyWith(fontWeight: FontWeight.bold),
                     ),
